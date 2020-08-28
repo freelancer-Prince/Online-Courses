@@ -1,0 +1,19 @@
+.course{
+    border: 1px solid gray;
+    width: 500px;
+    padding: 10px;
+}
+.col-md-10.course {
+    background: #f8f9fa;
+}
+.btn-enroll{
+    background-color: goldenrod;
+    border: none;
+    border-radius: 2px;
+}
+.highlight{
+    color: blue;
+}
+.course button{
+   padding: 0 20px;
+}

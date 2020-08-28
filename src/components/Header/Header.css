@@ -1,0 +1,31 @@
+.header{
+    text-align: center;
+    width: 100%;
+    background-attachment: fixed;
+}
+.logo img{
+    height: 80px;
+}
+.logo h1{
+    color: #adb5bd;
+}
+.nav{
+    background-color: black;
+    text-decoration: none;
+    width: 1140px;
+    margin-left: -15px;
+
+}
+.nav a{
+   margin-left: 15px;
+    text-decoration: none;
+    color: #e9ecef;
+    font-size:15px;
+    transition: .3s;
+}
+.nav a:hover{
+    text-decoration: none;
+    background-color:#dee2e6;
+    color: black;
+    padding: 2px 5px;
+}
